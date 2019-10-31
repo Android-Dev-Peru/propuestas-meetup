@@ -9,8 +9,13 @@ Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo
 
 Para realizar una propuesta, seguir los siguientes pasos:
 
-. Registrar un https://github.com/Android-Dev-Peru/propuestas-meetup/issues[issue^] con el tópico y una descripción .
-. Asignar label `workshop`, `talk` .
+. Registrar un **https://github.com/Android-Dev-Peru/propuestas-meetup/issues[issue^]** con el tema de tu charla y una descripción.
+. No te olvides de dejar un medio de contacto: número de celular o correo electrónico.
+. Es importante asignar la etiqueta `workshop` o `talk` dependiendo del contenido de tu charla.
+
+
+
+Nosotros nos pondremos en contacto contigo :D
 
 
 ## Links
