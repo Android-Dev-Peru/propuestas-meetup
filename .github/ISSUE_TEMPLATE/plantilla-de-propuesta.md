@@ -9,7 +9,6 @@ assignees: ''
 
 # Título de tu charla o workshop 
 
-
 #### Tipo de evento
 [X] Charla
 [ ] Workshop
@@ -19,3 +18,5 @@ Aquí escribir una descripción corta de lo que tratará tu charla o workshop. L
 
 #### Medio de contacto
 Puedes dejar tu email o teléfono celular
+
+_No olvidar etiquetar el issue con "talk" o "workshop"_
